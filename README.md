@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmedGamalAbdo 
+- 👋 Hi, I’m @AhmedGamal
 - 👀 I’m interested in reactjs ecosystem
 - 🌱 I’m currently learning datastrucure and algorithms
 - 💞️ I’m looking to collaborate on any hot product
